@@ -1,0 +1,9 @@
+npm create vite@latest ./
+npm install
+
+npm i axios react-icons react-multi-carousel react-router-dom react-toastify
+Axios is for request
+react-router-dom is for navigation from one page to another page
+react-toastify is for messages
+
+rafc // To add a boiler plate in react js
